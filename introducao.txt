@@ -1,0 +1,13 @@
+--> Descrição do Desafio <--
+
+> Reforce seu conhecimento em Git com um desafio de projeto totalmente prático, onde você executará todos os passos para a criação, atualização e sincronização de um repositório no GitHub. Para isso, tenha em mente todas as dicas e direcionamentos apresentados pelo expert nas aulas. Dessa forma, você poderá compartilhar suas anotações e exercícios em seu próprio repositório. Criando assim, o primeiro (de muitos) projetos do seu portfólio.
+
+> Links Úteis:
+
+* Download do git bash: https://git-scm.com/downloads
+
+* Dicas de comandos importantes do git: https://www.freecodecamp.org/news/10-important-git-commands-that-every-developer-should-know/
+
+* Documentação do git: http://git-scm.com/docs
+
+* Tutorial de git: https://www.w3schools.com/git/
